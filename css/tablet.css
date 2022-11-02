@@ -19,3 +19,7 @@
 .plans-container--slider{
     overflow-x: unset;
 }
+
+.product-detail--card {
+    min-height: 240px;
+}

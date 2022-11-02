@@ -322,7 +322,8 @@ main {
     width: 90%;
     min-width: 288px;
     max-width: 400px;
-    height: 220px;
+    min-height: 220px;
+    max-height: 240px;
     margin: 15px auto;
     padding: 15px;
     background-color: var(--black);
