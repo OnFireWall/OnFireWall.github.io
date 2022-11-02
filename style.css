@@ -444,6 +444,10 @@ main {
     box-shadow: 0 4px 8px rgba(89, 73, 30, 0.16);
 }
 
+.plans-container--card:hover{
+    transform: scale(1.15);
+}
+
 .recommended {
     position: absolute;
     width: 120px;
